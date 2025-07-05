@@ -1,0 +1,41 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Arroz, Puré y Carne Apanada</title>
+</head>  
+<body>
+<h1>Arroz, Puré y Carne Apanada</h1>
+<p>Esta es la receta favorita de mi esposa. Consta de Arroz Blanco bien cocido, puré de papas aderezado con mantequilla, y carne </p>
+<h2>Ingredients</h2>
+<ul>
+  <li>Arroz</li>
+  <li>Papa</li>
+  <li>Leche</li>
+  <li>Mantequilla</li>
+  <li>Aceite</li>
+  <li>Carne</li>
+  <li>Apanadura</li>
+  <li>Huevo</li>
+  <li>Sal</li>
+  <li>Pimienta</li>  
+</ul>
+<h2>Instructions</h2>
+<ol>
+  <li>Lavar el arroz</li>
+  <li>Cocinar el arroz a razón de 2tz de arroz por 1 tz de agua</li>
+  <li>Preparar apanadura con sal y pimienta al gusto y batir un huevo</li>
+  <li>Humedecer cada filete de carne en huevo, despues en apanadura</li>
+  <li>Freir en Abundante Aceite</li>
+  <li>Hervir papas cortadas en mitades con agua hasta que las tape</li>
+  <li>Drenar el agua de las papas, agregar mantequilla, leche, majando la papa</li>
+  <li>Agregar sal al puré</li>
+  <li>Emplatar</li>  
+</ol>
+<img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="ingredientes"></img>
+</body>
+</html>
+
+** end of index.html **
